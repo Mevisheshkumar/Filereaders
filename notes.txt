@@ -1,0 +1,3 @@
+These are my Java notes.
+Java supports file I/O using FileWriter and FileReader.
+BufferedReader makes reading easier and faster.
